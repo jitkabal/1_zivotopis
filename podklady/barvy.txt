@@ -1,0 +1,12 @@
+
+
+ 	
+#FFFFFC - pozadi 1 velmi svetle oranzove
+#F5880C - pozadi 2 syte ornzove
+#EE9F45 - podbarveni odkazu 
+#704F29 - barva textu svetla, aktivních odkazů, pozadí menu a patičky	
+#4A2C09 - barva textu tmava
+#F29428 - linka nad menu
+
+
+https://www.colorspire.com/rgb-color-wheel/
